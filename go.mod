@@ -1,4 +1,4 @@
-module github/edcdavid/cnfextentions
+module github.com/edcdavid/cnfextentions
 
 go 1.18
 
